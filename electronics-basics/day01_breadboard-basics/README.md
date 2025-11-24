@@ -29,9 +29,11 @@ Rows A–E are connected horizontally.
 Rows F–J are also connected horizontally.  
 The middle gap separates the two halves, usually for ICs.
 
-A B C D E     F G H I J
-• • • • •     • • • • •
-  ← row A–E   row F–J →
+A B C D E----F G H I J
+
+• • • • •----• • • • •
+
+← row A–E----row F–J →
 
 ---
 
