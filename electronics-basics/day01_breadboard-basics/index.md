@@ -76,15 +76,15 @@ A B C D E----F G H I J
 
 ## 📐 4. Ohm’s Law
 
-\[
+$$
 V = I \times R
-\]
+$$
 
 For LED resistor sizing:
 
-\[
+$$
 R = \frac{V_{\text{supply}} - V_{\text{LED}}}{I_{\text{LED}}}
-\]
+$$
 
 Typical:
 - Red LED drop ≈ 2.0V  
@@ -92,9 +92,9 @@ Typical:
 
 Example:
 
-\[
+$$
 R = \frac{5V - 2V}{0.02A} = 150Ω
-\]
+$$
 
 Use **150Ω–220Ω** safely.
 
@@ -146,8 +146,8 @@ Power an LED using the bench supply while measuring voltage and current.
    - Expect 10–20mA  
 
 5. Verify Ohm’s Law  
-   - $ V_R = 5V - V_{LED} $  
-   - $ I = \frac{V_R}{R} $
+   - $$ V_R = 5V - V_{LED} $$  
+   - $$ I = \frac{V_R}{R} $$
 
 ---
 
