@@ -1,4 +1,8 @@
-# 🔧 Embedded Systems & Electronics Lab
+---
+layout: default
+title: Embedded Systems & Electronics Lab
+---
+
 
 A structured, 90-day engineering journey through:
 
