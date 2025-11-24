@@ -3,13 +3,11 @@ layout: default
 title: Embedded Systems & Electronics Lab
 ---
 
-
 A structured, 90-day engineering journey through:
 
 **Arduino • ESP32 • IoT • Sensors • Electronics • Robotics • PCB Design • FPGA**
 
 ---
-
 
 ![Embedded Lab Banner](Banner.png)
 
@@ -39,7 +37,7 @@ Browse the sections below to jump into any topic.
 
 | Section | Folder |
 |--------|--------|
-| 📗 **Electronics Basics (Days 1–5)** | [Electronics Basics](electronics-basics/day01-breadboard-basics.html) |
+| 📗 **Electronics Basics (Days 1–5)** | [`electronics-basics/`](electronics-basics/) |
 | 🔌 **Arduino Basics (Days 6–15)** | [`arduino-basics/`](arduino-basics/) |
 | 📟 **Sensors & Displays (Days 16–30)** | [`sensors-displays/`](sensors-displays/) |
 | 📡 **ESP32 IoT (Days 31–45)** | [`esp32-iot/`](esp32-iot/) |
@@ -53,7 +51,7 @@ Browse the sections below to jump into any topic.
 
 # 📅 90-Day Roadmap Summary
 
-Below is the full breakdown of the 90-day plan covered in this lab.
+Below is the full breakdown of the 90-day plan.
 
 ---
 
@@ -65,7 +63,7 @@ Below is the full breakdown of the 90-day plan covered in this lab.
 ✔ Multimeter skills  
 
 👉 Start here:  
-[electronics-basics/day01-breadboard-basics](electronics-basics/day01_breadboard-basics/day01_breadboard-basics.html)
+[`electronics-basics/day01_breadboard-basics/`](electronics-basics/day01_breadboard-basics/)
 
 ---
 
@@ -135,21 +133,6 @@ Below is the full breakdown of the 90-day plan covered in this lab.
 
 ---
 
-# 📘 LaTeX Example (for testing)
-
-MathJax is enabled. Try an equation:
-
-Inline:  
-\( V = IR \)
-
-Block:  
-
-$$
-I = \frac{V_{R}}{R}
-$$
-
----
-
 # 🛠 Contributions & Branching
 
 This project is structured for:
@@ -171,4 +154,3 @@ GitHub: [@ntofoe](https://github.com/ntofoe)
 ---
 
 # ⭐ Enjoy learning hardware engineering the right way!
-
