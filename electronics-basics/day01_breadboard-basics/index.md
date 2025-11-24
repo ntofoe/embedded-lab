@@ -3,9 +3,6 @@ layout: default
 title: Day 1 — Breadboard & Power Basics
 ---
 
-# Day 1 — Breadboard & Power Basics
-
-
 ## 📘 Objectives
 By the end of Day 1, you will be able to:
 
